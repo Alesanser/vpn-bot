@@ -12,7 +12,7 @@ import asyncpg
 # НАСТРОЙКИ
 # ─────────────────────
 TOKEN = "ТОКЕН_СЮДА"
-ADMIN_ID = 935010023
+ADMIN_ID = nn
 PHONE_NUMBER = "+7 XXX XXX-XX-XX"
 
 DB_CONFIG = {
@@ -365,4 +365,5 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
 
