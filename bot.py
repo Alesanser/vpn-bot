@@ -16,10 +16,10 @@ ADMIN_ID = 935010023
 PHONE_NUMBER = "+7 XXX XXX-XX-XX"
 
 DB_CONFIG = {
-    "user": "vpn_user",
-    "password": "1234",
-    "database": "vpn_bot",
-    "host": "localhost"
+    "user": "nn",
+    "password": "nn",
+    "database": "nn",
+    "host": "nn"
 }
 
 bot = Bot(TOKEN)
@@ -365,3 +365,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
